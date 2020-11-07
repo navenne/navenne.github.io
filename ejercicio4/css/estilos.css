@@ -26,6 +26,8 @@ body {
 p {
 	text-indent: 30px;
 	text-align: justify;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 img {
@@ -33,7 +35,6 @@ img {
 	margin-right: 10px;
 	margin-bottom: 10px;
 	margin-left: 10%;
-	clear: both;
 }
 
 strong {
