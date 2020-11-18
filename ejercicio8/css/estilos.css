@@ -1,0 +1,60 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+p {
+	text-align: justify;
+}
+
+img {
+	float: left;
+}
+
+.barraizq {
+	float: left;
+	width: 25%;
+}
+
+.barrader {
+	float: left;
+	width: 75%;
+}
+
+.listasin {
+	list-style-type: none;
+}
+
+.listasin li {
+	width: 30%;
+	float: left;
+	text-align: justify;
+	padding: 10px;
+}
+
+.barra {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+	overflow: hidden;
+}
+
+.barra li {
+	float: left;
+}
+
+.barra li a {
+	display: inline-block;
+	color: white;
+	padding: 25px;
+	text-decoration: none;
+}
+
+.barra li a:hover {
+	background-color: red;
+}
