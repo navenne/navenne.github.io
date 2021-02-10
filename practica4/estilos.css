@@ -405,6 +405,12 @@ figure:hover {
     .subtitulo {
         top: 70%;
     }
+    
+    .imagenes {
+        display: flex;
+        flex-direction: column;
+        margin-left: 7%;
+    }
 }
 
 @media only screen and (max-width: 572px) {
