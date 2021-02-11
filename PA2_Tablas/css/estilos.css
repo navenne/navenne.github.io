@@ -1,0 +1,53 @@
+body {
+	background-color: #e0ffff;
+}
+
+h1 {
+	color: #4682b4;
+	letter-spacing: 3px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+caption {
+	font-variant: small-caps;
+	color: green;
+	font-size: 1.75em;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	border: 1px solid #b0c4de;
+	background-color: #4682b4;
+	color: #aec0d9;
+	padding: 10px 15px;
+}
+
+td {
+	border: 1px solid #808080;
+	background-color: #add8e6;
+	color: #2a34a1;
+	padding: 10px 15px;
+	text-align: center;
+}
+
+th > img {
+	width: 50px;
+}
+
+p > img {
+	float: left;
+
+}
+
+hr {
+	clear: both;
+}
+
+div {
+	margin: auto;
+	width: 1100px;
+}
