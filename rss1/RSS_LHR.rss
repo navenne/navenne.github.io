@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Pokemon Go</title>
+        <link>https://navenne.github.io/</link>
+        <description>
+            Primera sindicación - canal de Pokemon Go
+        </description>
+        <category>Pokemon Go/Actualizaciones</category>
+        <language>es-es</language>
+        <lastBuildDate>Fri, 12 Feb 2021 13:00:00 GMT</lastBuildDate>
+        <managingEditor>a20hirila@iesgrancapitan.org (Laura Hidalgo Rivera)</managingEditor>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <image>
+            <url>https://pokemongolive.com/img/posts/nov2019-events.jpg</url>
+            <title>Pokemon Go</title>
+            <link>https://pokemongolive.com/es/</link>
+        </image>
+        <item>
+            <title>Evento especial tras el Tour de Kanto</title>
+            <link>https://pokemongolive.com/post/kanto-celebration-event-2021/?hl=es</link>
+            <description>¡Que no pare la celebración de Kanto tras el Tour de Pokémon GO: Kanto con un evento especial!</description>
+            <pubDate>Thu, 11 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url="https://lh3.googleusercontent.com/sYoptlzL08suuQMqorQjYlDdCXuj3fDJbv4xzfs4dFO6qwg_FZ_hs5xq5lZ6WVU2u2c6pnmBLdr32EDZsX0y5o_sGoZCgq3fBrUzoyIJT71y=s0" 
+            length="421227" type="image/jpg" />
+            <author>a20hirila@iesgrancapitan.org (Laura Hidalgo Rivera)</author>
+            <source url="https://www.pokemongolive.com">Pokemon Go</source>
+        </item>
+        <item>
+            <title>Sorteo</title>
+            <link>https://pokemongolive.com/post/pokemongotour-kanto-sweepstakes/?hl=es</link>
+            <description>Sorteo de Tour de Pokémon GO: Kanto</description>
+            <pubDate>Wed, 10 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url="https://lh3.googleusercontent.com/RW3l6r8JcFjU3Wko3mHsZfs6QpnoSbbFuM-Dohv35Myup541Xxc6r7ADrd7jos7Nsv1Ul3srCGauw6nM-FkcOSYtjZCPaao93AjZwKUDZhAakg=s0" 
+            length="843842" type="image/jpg" />
+            <author>a20hirila@iesgrancapitan.org (Laura Hidalgo Rivera)</author>
+            <source url="https://www.pokemongolive.com">Pokemon Go</source>
+        </item>
+        <item>
+            <title>San Valentín en Pokemon Go</title>
+            <link>https://pokemongolive.com/post/valentinesday2021/?hl=es</link>
+            <description>
+            Celebración del Día de San Valentín 2021 de Pokémon GO</description>
+            <pubDate>Mon, 08 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url="https://lh3.googleusercontent.com/z5eHO1B3LAIleBHX5CQ5o-N5sRQS1PpG-Gjk7amgxBAWBxsx8LolHvxP0BsYDUcJneKEVjNyiFZCeRRvlrdENGsHHlUOqmU7nOq3rLvzapUSGNs=s0" 
+            length="1007205" type="image/jpg" />
+            <author>a20hirila@iesgrancapitan.org (Laura Hidalgo Rivera)</author>
+            <source url="https://www.pokemongolive.com">Pokemon Go</source>
+        </item>
+        <item>
+            <title>Año Nuevo Lunar en Pokemon Go</title>
+            <link>https://pokemongolive.com/post/lunar-2021/?hl=es</link>
+            <description>
+            ¡Celebrad el Año Nuevo Lunar con Pokémon GO!</description>
+            <pubDate>Tue, 02 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url="https://lh3.googleusercontent.com/UZgb6dpXYzgxnof2Iwa0UnxU9_72bYKJOgRsuOWxb_LMdaN3LSJJBRmjqhAb5ZESJMo_m2CuXxzfcLQmmn5uqJ7nvhdaLPa0vLk6iFiUSwECpw=s0" 
+            length="500371" type="image/jpg" />
+            <author>a20hirila@iesgrancapitan.org (Laura Hidalgo Rivera)</author>
+            <source url="https://www.pokemongolive.com">Pokemon Go</source>
+        </item>
+    </channel>
+</rss>
