@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Formulario</title>
+</head>
+<body>
+<h1>Controles de formulario</h1>
+<form action="alta.php" method="get" accept-charset="utf-8">
+	<fieldset>
+		<legend>Datos personales</legend>
+		<p> Nombre:
+		<input type="text" name="nombre" />
+		</p>
+		<p> Correo electrónico:
+		<input type="email" name="e-mail" />
+		</p>
+		<p> URL:
+		<input type="url" name="url" placeholder="Escribe la URL de tu página web personal" size="35" />
+		</p>
+		<p> Ciudad:
+		<select name="ciudad" value="MA">
+			<optgroup label="Andalucía">
+			<option value="CO">CÓRDOBA</option>
+			<option value="SE">SEVILLA</option>
+			<option value="HU">HUELVA</option>
+			<option value="CA">CÁDIZ</option>
+			<option value="MA">MÁLAGA</option>
+			<option value="GR">GRANADA</option>
+			<option value="AL">ALMERÍA</option>
+			<option value="JA">JAÉN</option>
+			</optgroup>
+			<optgroup label="Extremadura">
+			<option value="BA">BADAJOZ</option>
+			<option value="CAC">CÁCERES</option>
+			</optgroup>
+		</select>
+		</p>
+
+	</fieldset>
+	<fieldset>
+		<legend>Otros datos</legend>
+		<p>
+		<label for="fecha">Fecha:</label>
+		<input type="date" name="fecha" />
+		</p>
+		<p>
+		<label for="tiempo">Tiempo:</label>
+		<input type="time" name="tiempo" />
+		</p>
+		<p>
+		<label for="fechayhora">Fecha y hora:</label>
+		<input type="datetime" name="fechayhora" />
+		</p>
+		<p>
+		<label for="mes">Mes:</label>
+		<input type="month" name="mes" />
+		</p>
+		<p>
+		<label for="semana">Semana:</label>
+		<input type="week" name="semana" />
+		</p>
+		<p>
+		<label for="numero">Número:</label>
+		<input type="number" name="numero" size="2" min="-10" max="10" />
+		</p>
+		<p>
+		<label for="tlfno">Teléfono:</label>
+		<input type="tel" name="tlfno" size="9" maxlength="9" required placeholder="#########" pattern="[0-9]" />
+		</p>
+		<p>
+		<label for="busqueda">Término de búsqueda:</label>
+		<input type="search" name="busqueda" size="50" maxlength="100" />
+		</p>
+		<p>
+		<label for="color">Color favorito:</label>
+		<input type="color" name="color" value="#ff0000" />
+		</p>
+	</fieldset>
+	<fieldset>
+		<legend>Otros controles</legend>
+		<p>
+		Aficiones
+		<label>
+		<input type="checkbox" name="cine" value="1" />
+		Cine</label>
+		<label>
+		<input type="checkbox" name="deporte" value="1" />
+		Deporte</label>
+		</p>
+		<p>
+			Formas de pago <br />
+			<label><input type="radio" name="pago" value="V" />Visa</label>
+			<label><input type="radio" name="pago" value="A" />American Express</label>
+			<label><input type="radio" name="pago" value="M" />Master Card</label>
+		</p>
+	</fieldset>
+	<p>
+	<label for="equipo">Equipo de fútbol
+		<input type="text" name="equipo" list="equipos">
+	</label>
+	<datalist id="equipos">
+		<option value="Real Madrid" />
+		<option value="FC Barcelona" />
+
+	</datalist>
+	</p>
+	<input type="submit" value="Enviar" />
+	<input type="reset" value="Borrar" />
+	
+</form>
+</body>
+</html>
+<!--
+		<label for="password">Contraseña</label>
+		<input type="password" name="password" size="30" maxlength="35" accesskey="p" />
+		<br>
+		<label for="busqueda">Campo de búsqueda</label>
+		<input type="search" name="busqueda" size="50" maxlength="100" tabindex="2" accesskey="b">
+		<br>
+		<label for="tlfno">Teléfono</label>
+		<input type="tel" name="tlfno" size="9" maxlength="9" tabindex="3" accesskey="t" required placeholder="#########" pattern="[0-9]" />
+		<br>
+		<label for="obs">Observaciones</label>
+		<textarea name="obs" rows="5" cols="80">Introduce un comentario</textarea>
+-->
