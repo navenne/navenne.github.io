@@ -32,12 +32,17 @@
 			<name>Laura Hidalgo Rivera</name>
 			<email>a20hirila@iesgrancapitan.org</email>
 		</author>
+		<link rel="enclosure"
+		 xml:lang="es"
+		 title="Personaje"
+		 type="image/jpg"
+		 hreflang="es"
+		 href="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2019/11/05/15729733772763.jpg" />
 		<source>https://www.elmundo.es/f5/juega/2019/11/05/5dc1789421efa050348b4591.html</source>
 	</entry>
 
 	<entry>
 		<title>La guía no autorizada del jugador de Pokemon Go</title>
-		<link href="https://gamepress.gg/pokemongo/sites/pokemongo/files/2018-02/Starter-Guide-for-New-Trainers.png"/>
 		<id>urn:uuid:6b5ae726-4022-411b-81a3-2dccbae1d08b</id>
 		<updated>2021-02-10T18:30:02Z</updated>
 		<summary>Guía para principiantes en pokemon Go</summary>
@@ -45,6 +50,12 @@
 			<name>Laura Hidalgo Rivera</name>
 			<email>a20hirila@iesgrancapitan.org</email>
 		</author>
+		<link rel="enclosure"
+		 xml:lang="es"
+		 title="La guía no autorizada del jugador de Pokemon Go"
+		 type="image/png"
+		 hreflang="es"
+		 href="https://gamepress.gg/pokemongo/sites/pokemongo/files/2018-02/Starter-Guide-for-New-Trainers.png" />
 		<link rel="enclosure"
 		 xml:lang="es"
 		 title="La guía no autorizada del jugador de Pokemon Go"
@@ -56,7 +67,6 @@
 
 	<entry>
 		<title>Tono de llamada de Pokemon Go</title>
-		<link href="https://cdn.bulbagarden.net/upload/thumb/1/13/Jigglypuff_anime.png/1200px-Jigglypuff_anime.png"/>
 		<id>urn:uuid:3d14a600-13ff-4b38-9750-971f301f564d</id>
 		<updated>2021-02-08T18:30:02Z</updated>
 		<summary>Aquí tienes la intro de Pokemon como tono de llamada</summary>
@@ -67,6 +77,12 @@
 		<link rel="enclosure"
 		 xml:lang="es"
 		 title="Intro de Pokemon"
+		 type="image/png"
+		 hreflang="es"
+		 href="https://cdn.bulbagarden.net/upload/thumb/1/13/Jigglypuff_anime.png/1200px-Jigglypuff_anime.png" />
+		<link rel="enclosure"
+		 xml:lang="es"
+		 title="Intro de Pokemon"
 		 type="audio/mp3"
 		 hreflang="es"
 		 href="https://navenne.github.io/atom/img/pokemon-intro.mp3" />
@@ -74,8 +90,8 @@
 	</entry>
 
 	<entry>
-		<title>"Pokémon en carácteres ASCII"</title>
-		<link href="https://i.pinimg.com/originals/c9/d7/7d/c9d77deb20b2b29dbcc0855462033476.png"/>
+		<title>Pokémon en carácteres ASCII</title>
+		<link href="https://www.asciiart.eu/video-games/pokemon"/>
 		<id>urn:uuid:a23f5bb0-c457-4827-a638-28593ec26c54</id>
 		<updated>2021-02-02T18:30:02Z</updated>
 		<summary>El arte en carácteres ASCII</summary>
@@ -86,6 +102,12 @@
 		<content type="html">
 			<p>En <b>esta web</b> encontrarás dibujos de pokemon con carácteres ASCII</p>
 		</content>
+		<link rel="enclosure"
+		 xml:lang="es"
+		 title="Pokemon en ASCII"
+		 type="image/png"
+		 hreflang="es"
+		 href="https://i.pinimg.com/originals/c9/d7/7d/c9d77deb20b2b29dbcc0855462033476.png" />
 		<source>https://www.asciiart.eu/video-games/pokemon</source>
 	</entry>
 </feed>
