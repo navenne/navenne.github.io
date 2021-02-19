@@ -37,6 +37,7 @@
 
 	<entry>
 		<title>La guía no autorizada del jugador de Pokemon Go</title>
+		<link href="https://gamepress.gg/pokemongo/sites/pokemongo/files/2018-02/Starter-Guide-for-New-Trainers.png"/>
 		<id>urn:uuid:6b5ae726-4022-411b-81a3-2dccbae1d08b</id>
 		<updated>2021-02-10T18:30:02Z</updated>
 		<summary>Guía para principiantes en pokemon Go</summary>
@@ -55,6 +56,7 @@
 
 	<entry>
 		<title>Tono de llamada de Pokemon Go</title>
+		<link href="https://cdn.bulbagarden.net/upload/thumb/1/13/Jigglypuff_anime.png/1200px-Jigglypuff_anime.png"/>
 		<id>urn:uuid:3d14a600-13ff-4b38-9750-971f301f564d</id>
 		<updated>2021-02-08T18:30:02Z</updated>
 		<summary>Aquí tienes la intro de Pokemon como tono de llamada</summary>
@@ -73,7 +75,7 @@
 
 	<entry>
 		<title>"Pokémon en carácteres ASCII"</title>
-		<link href="https://pokemongolive.com/post/lunar-2021/?hl=es"/>
+		<link href="https://i.pinimg.com/originals/c9/d7/7d/c9d77deb20b2b29dbcc0855462033476.png"/>
 		<id>urn:uuid:a23f5bb0-c457-4827-a638-28593ec26c54</id>
 		<updated>2021-02-02T18:30:02Z</updated>
 		<summary>El arte en carácteres ASCII</summary>
