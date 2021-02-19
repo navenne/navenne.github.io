@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+	  xml:lang="es"
+	  xml:base="https://navenne.github.io/">
+
+	<id>https://navenne.github.io/<id>
+
+	<title>Pokemon Go</title>
+	<updated>2021-02-17T18:30:02Z</updated>
+
+	<link rel="alternate" href="https://pokemongolive.com/es/"/>
+
+	<author>
+		<name>Laura Hidalgo Rivera</name>
+		<email>a20hirila@iesgrancapitan.org</email>
+	</author>
+
+	<category term="Pokemon Go/Noticias"/>
+	<rights type="html">&copy; 2021 Laura Hidalgo Rivera</rights>
+
+	<icon>atom/img/icon.png</icon>
+	<logo>atom/img/logo.png</logo>
+
+	<entry>
+		<title>La traducción española de Pokémon Go convierte en femenino a un personaje que originalmente no se sentía ni hombre ni mujer</title>
+		<link href="https://www.elmundo.es/f5/juega/2019/11/05/5dc1789421efa050348b4591.html"/>
+		<id>urn:uuid:30cf4041-4e7e-4d28-b883-f919ecf64033</id>
+		<updated>2021-02-11T18:30:02Z</updated>
+		<summary>Los textos originales utilizaban un pronombre neutro, habitualmente atribuido al género no binario, pero al pasarlos al español se convirtieron en femenino</summary>
+		<author>
+			<name>Laura Hidalgo Rivera</name>
+			<email>a20hirila@iesgrancapitan.org</email>
+		</author>
+		<source>https://www.elmundo.es/f5/juega/2019/11/05/5dc1789421efa050348b4591.html</source>
+	</entry>
+
+	<entry>
+		<title>La guía no autorizada del jugador de Pokemon Go</title>
+		<id>urn:uuid:6b5ae726-4022-411b-81a3-2dccbae1d08b</id>
+		<updated>2021-02-10T18:30:02Z</updated>
+		<summary>Guía para principiantes en pokemon Go</summary>
+		<author>
+			<name>Laura Hidalgo Rivera</name>
+			<email>a20hirila@iesgrancapitan.org</email>
+		</author>
+		<link rel="enclosure"
+		 xml:lang="es"
+		 title="La guía no autorizada del jugador de Pokemon Go"
+		 type="application/pdf"
+		 hreflang="es"
+		 href="http://urano.blob.core.windows.net/share/i_avance/100000084/avance.pdf" />
+		<source>http://urano.blob.core.windows.net/share/i_avance/100000084/avance.pdf</source>
+	</entry>
+
+	<entry>
+		<title>Tono de llamada de Pokemon Go</title>
+		<id>urn:uuid:3d14a600-13ff-4b38-9750-971f301f564d</id>
+		<updated>2021-02-08T18:30:02Z</updated>
+		<summary>Aquí tienes la intro de Pokemon como tono de llamada</summary>
+		<author>
+			<name>Laura Hidalgo Rivera</name>
+			<email>a20hirila@iesgrancapitan.org</email>
+		</author>
+		<link rel="enclosure"
+		 xml:lang="es"
+		 title="Intro de Pokemon"
+		 type="audio/mp3"
+		 hreflang="es"
+		 href="https://navenne.github.io/atom/img/pokemon-intro.mp3" />
+		<source>http://www.sonidosmp3gratis.com/download.php?id=17149&sonido=pokemon%20intro</source>
+	</entry>
+
+	<entry>
+		<title>"Pokémon en carácteres ASCII"</title>
+		<link href="https://pokemongolive.com/post/lunar-2021/?hl=es"/>
+		<id>urn:uuid:a23f5bb0-c457-4827-a638-28593ec26c54</id>
+		<updated>2021-02-02T18:30:02Z</updated>
+		<summary>El arte en carácteres ASCII</summary>
+		<author>
+			<name>Laura Hidalgo Rivera</name>
+			<email>a20hirila@iesgrancapitan.org</email>
+		</author>
+		<content type="html">
+ 		<div>
+		&lt;pre&gt;
+		   			                          ,'\
+			    _.----.        ____         ,'  _\   ___    ___     ____
+			_,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
+			\      __    \    '-.  | /   `.  ___    |    \/    |   '-.   \ |  |
+			 \.    \ \   |  __  |  |/    ,','_  `.  |          | __  |    \|  |
+			   \    \/   /,' _`.|      ,' / / / /   |          ,' _`.|     |  |
+			    \     ,-'/  /   \    ,'   | \/ / ,`.|         /  /   \  |     |
+			     \    \ |   \_/  |   `-.  \    `'  /|  |    ||   \_/  | |\    |
+			      \    \ \      /       `-.`.___,-' |  |\  /| \      /  | |   |
+			       \    \ `.__,'|  |`-._    `|      |__| \/ |  `.__,'|  | |   |
+			        \_.-'       |__|    `-._ |              '-.|     '-.| |   |
+			                                `'                            '-._|
+		&lt;/pre&gt;
+		</div>
+		</content>
+		<source>https://www.asciiart.eu/video-games/pokemon</source>
+	</entry>
+</feed>
