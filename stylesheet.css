@@ -17,8 +17,9 @@ body {
 header {
 	letter-spacing: 1em;
 	background-color: rgb(245,201,204,0.9);
-	width: 97.7%;
+	width: 100%;
 	padding: 20px;
+	margin-left: auto;
 	margin-bottom: 6%;
 	text-align: center;
 }
@@ -103,14 +104,15 @@ h2 {
 
 footer {
 	background-color: rgb(250, 230, 231, 0.9);
-	width: 99%;
+	width: 100%;
 	padding: 10px;
+	margin-left: auto;
 	margin-top: 6%;
 	font-weight: bold;
 	text-align: center;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 907px) {
 	section {
 		display: flex;
 		flex-direction: column;
