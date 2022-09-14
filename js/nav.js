@@ -17,5 +17,14 @@
       nav.style.width = "0";
       blur.classList.toggle("blur_bg");
     });
+
+    const links = document.querySelectorAll("nav.mobile_menu li a")
+    links.forEach(link => {
+      link.addEventListener("click", function () {
+        nav.style.width = "0";
+        blur.classList.toggle("blur_bg");
+      });
+    });
+    
   });
 }
