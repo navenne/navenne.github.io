@@ -315,10 +315,41 @@ svg text {
 
 .links_projects a {
   color: var(--yellow);
+  text-decoration: solid;
 }
 
-.links_projects a:hover {
+.links_projects h3 a {
+  margin-bottom: 0;
+  border-bottom: 4px solid var(--yellow);
+  display: inline-block;
+  position: relative;
+}
+
+.links_projects h3 a:hover {
+  border-bottom: 4px solid transparent;
+}
+
+.links_projects h3 a:hover {
+  text-decoration: none;
   color: var(--lightyellow);
+}
+
+.links_projects h3 a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 4px;
+  bottom: -4px;
+  left: 0;
+  background-color: var(--lightyellow);
+  transform-origin: bottom right;
+  transition: transform 0.45s ease-out;
+}
+
+.links_projects h3 a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 /* ---------- Me section ---------- */
@@ -557,7 +588,6 @@ footer a:hover p {
   nav.desktop_menu a:hover {
     background-color: var(--yellow);
     color: black;
-    font-weight: 700;
   }
 
   section.intro {
